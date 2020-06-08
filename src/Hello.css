@@ -1,0 +1,34 @@
+*
+{
+    text-decoration: none;
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+.intro 
+{
+    padding:20px;
+    text-align:left;
+    background-color:rgb(226, 192, 0);
+    color:black;
+    margin:20px;
+    border-radius:15px;
+}
+.intro p 
+{
+    padding:10px 10px 5px 20px;
+}
+.intro ul 
+{
+    text-align:left;
+    padding:5px 5px 5px 20px;
+    font-weight: 600;
+}
+.intro ul li 
+{
+    list-style-type:circle;
+}
+.intro h1,h2
+{
+    padding:20px;
+}
